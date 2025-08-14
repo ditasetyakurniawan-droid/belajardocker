@@ -1,0 +1,14 @@
+# Folder yang tidak mau di-track
+node_modules/
+build/
+dist/
+vendor/
+
+# File sementara / cache
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Ignore folder cache browser
+.cache/
